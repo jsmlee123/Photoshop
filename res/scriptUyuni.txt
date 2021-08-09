@@ -1,0 +1,16 @@
+loadImages startUyuniScript
+toggleVisible 4
+removeLayer 2
+save scriptUyuniSingle.png
+createLayer
+setCurrent 4
+load Uyuni.jpeg
+blur
+blur
+blur
+setCurrent 1
+sharpen
+sharpen
+mosaic 1000
+saveAll scriptUyuni jpeg
+q
