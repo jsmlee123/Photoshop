@@ -1,6 +1,4 @@
-=== Interactive Scripting ==
--Gui at the bottom
-
+# Interactive Scripting
 
 Commands:
 
