@@ -1,4 +1,4 @@
-# Interactive Scripting
+# Photoshop Usage Information
 
 Commands:
 
